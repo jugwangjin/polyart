@@ -1,4 +1,4 @@
-https://ai.studio/apps/6a3e91d4-d64e-48c1-bae3-981b101d6c31
+ 구글 AI 스튜디오에서 바로 실행: https://ai.studio/apps/6a3e91d4-d64e-48c1-bae3-981b101d6c31
 
 # 폴리곤 아트 제너레이터 (Polygon Art Generator)
 
