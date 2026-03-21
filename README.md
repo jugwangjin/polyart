@@ -1,3 +1,5 @@
+https://ai.studio/apps/6a3e91d4-d64e-48c1-bae3-981b101d6c31
+
 # 폴리곤 아트 제너레이터 (Polygon Art Generator)
 
 > 이 프로젝트는 **Google AI Studio**를 통해 생성 및 개선되었습니다.
